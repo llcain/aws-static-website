@@ -1,9 +1,16 @@
+body {
+    background-color: aqua;
+}
+
 h1 {
     font-size: 30px;
     font-weight: 400px;
 }
 
 p {
-    color: green;
-    font-size: 3rem;
+    color: yellow;
+}
+
+.inner-box p {
+    color: white;
 }
