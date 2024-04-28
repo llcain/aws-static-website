@@ -16,4 +16,25 @@ body {
     flex: 1;
 }
 
+.wrapper {
+    margin: 15px;
+    display: flex;
+    
+}
+
+.pink-column {
+    background-color: rgb(255, 0, 157);
+    height: 100px;
+}
+
+.burgandy-column  {
+    background-color: rgb(128, 0, 100);
+    height: 100px;
+}
+
+.orange-column {
+    background-color: orange;
+    height: 100px;
+}
+
 
